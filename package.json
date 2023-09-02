@@ -1,6 +1,7 @@
 {
   "name": "shooketh",
   "version": "0.0.0",
+  "version": upgrade 
   "private": true,
   "scripts": {
     "dev": "next dev",
